@@ -1,8 +1,13 @@
 – package.json contains 4 main modules: react, react-router-dom, axios & bootstrap.
+
 – App is the container that has Router & navbar.
+
 – There are 3 items using React hooks: FinancialList, Financial, AddFinancial.
+
 – http-common.js initializes axios with HTTP base Url and headers.
+
 – FinancialDataService has functions for sending HTTP requests to the Apis.
+
 – .env configures port for this React Hooks CRUD App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
